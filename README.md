@@ -1,1 +1,1 @@
-# samsung-shop
+samsung-shop
