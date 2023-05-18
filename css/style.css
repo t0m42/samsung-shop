@@ -28,10 +28,13 @@ header{
     padding: 15px;
     border-bottom: 2px solid black;
 }
-
 .barranav{
     display: flex;
     justify-content: space-between;
+}
+.barranav li a:hover{
+    color: black;
+    text-decoration: underline;
 }
 
 .carrito{
@@ -79,9 +82,11 @@ ul, div{
 }
 
 .imagen-formulario{
-    background-image: url(../assets/img/samsungfondo.jpg);
-    background-size: cover;
+    background-image: url(../assets/img/imagen.registro.jpg);
+    background-size:cover;
     background-repeat: no-repeat;
+    
+
 }
 nav ul li{
     display: inline;
